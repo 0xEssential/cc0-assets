@@ -1,0 +1,3 @@
+# Cryptoadz 
+
+CrypToadz are small amphibious creatures that roam the swampy basin of what was formerly known as Uniswamp. Unfortunately, approximately six weeks ago the Evil King Gremplin descended upon Uniswamp and dispatched the CrypToadz leader Colonel Floorbin, exiling him to Gooch Island. Following the fall of Colonel Floorbin, the Evil King Gremplin declared his divine right to rule over all CrypToadz in the Metaverse. The Evil King Gremplin's first order was to rename Uniswamp to GREMPLAND. The Evil King Gremplin rules over the CrypToadz along with his army of Fronkz. The Toadz have been known to refer to the Evil King Gremplin's reign as "THE CROAKENING". Help rid the Toadz of the rule of Evil King Gremplin by choosing how many to free during minting.
