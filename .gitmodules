@@ -1,3 +1,6 @@
 [submodule "tinydinos"]
 	path = tinydinos
 	url = https://github.com/tinydinosnft/tinydinosassets
+[submodule "anonymice"]
+	path = anonymice
+	url = https://github.com/jozanza/anonymice-images
