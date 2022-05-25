@@ -4,3 +4,6 @@
 [submodule "anonymice"]
 	path = anonymice
 	url = https://github.com/jozanza/anonymice-images
+[submodule "hyperloot"]
+	path = hyperloot
+	url = https://github.com/hyperloot-nft/hyperloot-assets.git
